@@ -1,0 +1,10 @@
+1 - Idioma
+2 - Disco - Default (SCSI) - VBox
+	- Apagar Disco / Reinstalar
+   	- Criptografar
+	- Usa LVM com a nova 
+	- Avançada (Partição)
+3 - Fuso - São Paulo / Brasilia
+4 - Teclado
+5 - Identificação (Usuário, Senha, Computador)
+     Marca a Opção de que é necessária a senha para entrar,
